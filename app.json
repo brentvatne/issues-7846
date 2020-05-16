@@ -1,0 +1,17 @@
+{
+  "name": "TestUpdatesReport",
+  "displayName": "TestUpdatesReport",
+  "expo": {
+    "name": "TestUpdatesReport",
+    "slug": "TestUpdatesReport",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
